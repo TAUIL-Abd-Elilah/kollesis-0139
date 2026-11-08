@@ -1,0 +1,98 @@
+[
+{
+"id": "K_dj_20260902T151037604_000001.json_last",
+"file": "dj_20260902T151037604_000001.json",
+"end": "last",
+"kind": "kollesis",
+"hv": "H",
+"user": "dj"
+},
+{
+"id": "K_dj_20260909T102943937_000012.json_first",
+"file": "dj_20260909T102943937_000012.json",
+"end": "first",
+"kind": "kollesis",
+"hv": "H",
+"user": "dj"
+},
+{
+"id": "K_dj_20260917T020516909_000020.json_last",
+"file": "dj_20260917T020516909_000020.json",
+"end": "last",
+"kind": "kollesis",
+"hv": "H",
+"user": "dj"
+},
+{
+"id": "K_dj_20260925T145516108_000022.json_first",
+"file": "dj_20260925T145516108_000022.json",
+"end": "first",
+"kind": "kollesis",
+"hv": "H",
+"user": "dj"
+},
+{
+"id": "K_dj_20260929T134200594_000029.json_first",
+"file": "dj_20260929T134200594_000029.json",
+"end": "first",
+"kind": "kollesis",
+"hv": "H",
+"user": "dj"
+},
+{
+"id": "K_dj_20260929T182713976_000037.json_last",
+"file": "dj_20260929T182713976_000037.json",
+"end": "last",
+"kind": "kollesis",
+"hv": "H",
+"user": "dj"
+},
+{
+"id": "C_kb_20260928T033745637_000219.json_last",
+"file": "kb_20260928T033745637_000219.json",
+"end": "last",
+"kind": "control",
+"hv": "H",
+"user": "kb"
+},
+{
+"id": "C_lt_20261001T060003623_000242.json_first",
+"file": "lt_20261001T060003623_000242.json",
+"end": "first",
+"kind": "control",
+"hv": "H",
+"user": "lt"
+},
+{
+"id": "C_kb_20261008T221754331_000270.json_last",
+"file": "kb_20261008T221754331_000270.json",
+"end": "last",
+"kind": "control",
+"hv": "H",
+"user": "kb"
+},
+{
+"id": "C_dj_20260925T151814218_000023.json_first",
+"file": "dj_20260925T151814218_000023.json",
+"end": "first",
+"kind": "control",
+"hv": "H",
+"user": "dj"
+},
+{
+"id": "C_kb_20260907T043753904_000108.json_first",
+"file": "kb_20260907T043753904_000108.json",
+"end": "first",
+"kind": "control",
+"hv": "H",
+"user": "kb"
+},
+{
+"id": "C_lt_20260907T064642109_000063.json_first",
+"file": "lt_20260907T064642109_000063.json",
+"end": "first",
+"kind": "control",
+"hv": "H",
+"user": "lt"
+}
+]
